@@ -1,0 +1,8 @@
+
+/* Div container element*/
+div{
+border: 2px solid blue;
+width: 650px;
+/*centering the div*/
+margin: auto;
+}
